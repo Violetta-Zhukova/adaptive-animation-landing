@@ -6,7 +6,7 @@
 - Использование CSS-переменных
 - Анимации и интерактив (SVG анимации, transition для всех интерактивных элементов, CSS фильтры, hover/focus/active состояния элементов)
 
-https://violetta-zhukova.github.io/zakrivayuschiy-teg-f/
+https://violetta-zhukova.github.io/adaptive-animation-landing/
 
 ## Стек
 
